@@ -2,7 +2,6 @@
 deletion the array should contain the uniquee elements*/
 #include<iostream>
 using namespace std;
-
 int main()
 {
     
