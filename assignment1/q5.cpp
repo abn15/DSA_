@@ -27,7 +27,7 @@ int main()
 
     //binary search
     int l,h;
-    int mid=(l+h)/2;
+    int mid=(l+h)/2; // write as l + (h-l)/2 for optimization and clear test cases
     while(l>=h)
     { l=0;
       h=p;

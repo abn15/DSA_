@@ -20,7 +20,7 @@ int main()
     for(i=0;i<m;i++){
          for(j=0;j<n;j++){
               if(a[i][j]>=a[i][0] && a[i][j]<=a[i][n-1]){
-                   if(a[i][j]>=a[0][j] && a[i][j]<=a[m-1][j]){
+                   if(a[i][j]>=a[0][j] && a[i][j]>=a[m-1][j]){
                         cout<<"Saddle point is: "<<a[i][j]<<endl;
                         return 0;
                    }

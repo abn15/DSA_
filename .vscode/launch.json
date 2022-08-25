@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": false,
-      "cwd": "c:/Users/hp/Documents/GitHub/DSA_/assignment1_A",
-      "program": "c:/Users/hp/Documents/GitHub/DSA_/assignment1_A/build/Debug/outDebug",
+      "externalConsole": true,
+      "cwd": "c:/Users/hp/Documents/GitHub/DSA_/assignment1",
+      "program": "c:/Users/hp/Documents/GitHub/DSA_/assignment1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
