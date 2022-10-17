@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Documents/GitHub/DSA_/assignment1",
-      "program": "c:/Users/hp/Documents/GitHub/DSA_/assignment1/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/Documents/GitHub/DSA_/assignment6",
+      "program": "c:/Users/hp/Desktop/Documents/GitHub/DSA_/assignment6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
